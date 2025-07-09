@@ -32,7 +32,8 @@ I’ve broken down every concept, implemented examples, and explained them in my
 - ✅ **Loading pretrained models and tokenizers** using `AutoModel`, `AutoTokenizer`  
 - ✅ Inference with attention masks, padding, truncation  
 - ✅ Manual work with token IDs, logits, and softmax scoring
-- ✅ **Handling multiple sequences** with batching, padding, and attention masks 🆕
+- ✅ **Handling multiple sequences** with batching, padding, and attention masks
+- ✅ Putting It All Together – tokenizer + padding + truncation + tensors + model
 
 ---
 
