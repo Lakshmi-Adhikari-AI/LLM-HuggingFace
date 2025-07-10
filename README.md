@@ -34,6 +34,7 @@ I’ve broken down every concept, implemented examples, and explained them in my
 - ✅ Manual work with token IDs, logits, and softmax scoring
 - ✅ **Handling multiple sequences** with batching, padding, and attention masks
 - ✅ Putting It All Together – tokenizer + padding + truncation + tensors + model
+- ✅ Optimized Inference Deployment – Overview of deploying LLMs using TGI, vLLM, and llama.cpp with memory optimization, advanced sampling, and cloud access
 
 ---
 
