@@ -19,23 +19,12 @@ I’ve broken down every concept, implemented examples, and explained them in my
 
 ---
 
+## 📖 Topics Covered
+- Chapter 1: Transformers Basics – ✅
+- Chapter 2: Using Transformers – ✅
+- Chapter 3: Fine-tuning with Trainer API – ✅
 
 
-
-## 🧠 Topics Covered
-
-- ✅ Introduction to the 🤗 Transformers Library  
-- ✅ Using `pipeline()` for sentiment analysis and classification  
-- ✅ Word-based, character-based, and subword-based **tokenization**  
-- ✅ **Encoding & decoding**: converting text to input IDs and back  
-- ✅ Handling **unknown tokens**, vocabulary lookups, and special tokens  
-- ✅ **Loading pretrained models and tokenizers** using `AutoModel`, `AutoTokenizer`  
-- ✅ Inference with attention masks, padding, truncation  
-- ✅ Manual work with token IDs, logits, and softmax scoring
-- ✅ **Handling multiple sequences** with batching, padding, and attention masks
-- ✅ Putting It All Together – tokenizer + padding + truncation + tensors + model
-- ✅ Optimized Inference Deployment – Overview of deploying LLMs using TGI, vLLM, and llama.cpp with memory optimization, advanced sampling, and cloud access
-- ✅ **Chapter 2: "Using Transformers" – Completed ✅ (including the end-of-chapter quiz)**  
 
 ---
 
