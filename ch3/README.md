@@ -22,6 +22,8 @@ After completing this chapter, I can:
 
 ---
 
-## 📝 Quiz Result
+## 📝 Quiz Completion
 
-**Score:** 90% on the Chapter 3 End-of-Chapter Quiz 📊
+I have successfully completed the end-of-chapter quiz with a score of **90%**! 🎉  
+I have also earned the certificate of completion for Chapter 3, demonstrating my solid understanding of the fine-tuning concepts and practical skills covered.
+
